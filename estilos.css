@@ -1,0 +1,16 @@
+body,html{
+	
+	height:100%;
+
+}
+body{
+	background:url(flor.jpg) no-repeat;
+	background-size:100% 100%;
+}
+.cuadro{
+background: salmon;
+}
+#andresllanos h2{
+	color:#FFFFFF;
+	text-align: center;
+}
